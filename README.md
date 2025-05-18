@@ -31,7 +31,8 @@ In the meantime, feel free to check back soon or reach out if you'd like to conn
 
 ## 📄 Resume
 
-[Click here to view/download my resume](#)
+[Click here to view/download my resume](#)[Bhavya_Ch_Resume.pdf](https://github.com/user-attachments/files/20270905/Bhavya_Ch_Resume.pdf)
+
 
 ---
 
