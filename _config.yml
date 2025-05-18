@@ -1,1 +1,3 @@
-theme: minimal
+remote_theme: jekyll-theme-minimal
+plugins:
+  - jekyll-remote-theme
